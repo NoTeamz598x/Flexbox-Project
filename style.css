@@ -57,7 +57,7 @@ h1, h2{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 100px;
+    height: 100%;
 }
 
 .navbar ul li{
@@ -97,7 +97,7 @@ h1, h2{
     padding: 15px 20px;
 }
 
-.box{
+.box i{
     margin-right: 10px;
 }
 
@@ -113,4 +113,3 @@ h1, h2{
         text-align: center;
     }
 }
-
